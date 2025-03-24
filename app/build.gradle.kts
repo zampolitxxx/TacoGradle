@@ -38,7 +38,7 @@ dependencies {
     annotationProcessor("org.projectlombok:lombok:1.18.36")
     testCompileOnly("org.projectlombok:lombok:1.18.36")
     testAnnotationProcessor("org.projectlombok:lombok:1.18.36")
-
+    implementation("org.hibernate.validator:hibernate-validator:9.0.0.CR1")
 
 }
 
